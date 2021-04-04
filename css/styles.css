@@ -1,9 +1,8 @@
 .title {
   border:2px rgb(33, 41, 39);
   padding:10px;
-  background-color:rgb(97, 160, 144);
+  background-color:rgb(129, 180, 167);
   display:block;
-  margin: auto;
   margin: top 10px;
   margin:bottom 10px;
   width:100%;
@@ -19,44 +18,26 @@ h1 {
 .column1 {
   padding:8px;
   display: block;
-  margin:auto;
   margin: top 10px;
   margin: bottom 10px;
-  width: 33%;
-  font-size: 110%;
+  width: 50%;
+  font-size: 140%;
   text-align: center;
   box-sizing: border-box;
   color:rgb(17, 43, 33);
   float: left;
-  background-color: rgb(97, 160, 144);
-}
-
-.column3 {
-  border:2px rgb(33, 41, 39);
-  background-color:rgb(97, 160, 144);
-  padding:8px;
-  display: block;
-  margin:auto;
-  margin: top 10px;
-  margin: bottom 10px;
-  width: 33%;
-  font-size: 110%;
-  text-align: center;
-  box-sizing: border-box;
-  float:unset;
-  color:rgb(17, 43, 33)
+  background-color: rgb(189, 189, 189);
 }
 
 .column2 {
   border:2px rgb(33, 41, 39);
-  background-color:rgb(97, 160, 144);
+  background-color:rgb(189, 189, 189);
   padding:8px;
   display: block;
-  margin:auto;
   margin: top 10px;
   margin: bottom 10px;
-  width: 33%;
-  font-size: 110%;
+  width: 50%;
+  font-size: 140%;
   text-align: center;
   box-sizing: border-box;
   float:right;
@@ -64,11 +45,32 @@ h1 {
 }
 
 .aboutme {
-  border:2px rgb(33, 41, 39);
-  background-color: rgb(221, 173, 82);
+  border:8px rgb(129, 180, 167);
+  background-color: rgb(129, 180, 167);
   padding:5px;
   display: block;
-  margin:auto;
+  margin: top 10px;
+  margin: bottom 10px;
+  width: 100%;
+  font-size: 110%;
+  text-align: center;
+  box-sizing: border-box;
+  color:rgb(17, 43, 33)
+}
+
+.a:link {
+  text-decoration: underline;
+}
+
+.titles {
+  color:darkred;
+}
+
+.projects {
+  border:8px rgb(0, 0, 0);
+  background-color: rgb(129, 180, 167);
+  padding:5px;
+  display: block;
   margin: top 10px;
   margin: bottom 10px;
   width: 100%;
