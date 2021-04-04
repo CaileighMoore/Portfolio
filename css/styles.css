@@ -6,11 +6,16 @@
   margin: auto;
   margin: top 10px;
   margin:bottom 10px;
-  width:40%;
-  font-size: 130%;
+  width:70%;
+  font-size: 140%;
   text-align: center;
   box-sizing:border-box;
 }
+
+h1 {
+  color:rgb(17, 43, 33);
+}
+
 
 .aboutme {
   border:2px rgb(33, 41, 39);
@@ -21,9 +26,10 @@
   margin: top 10px;
   margin: bottom 10px;
   width: 70%;
-  font-size: 90%;
+  font-size: 110%;
   text-align: center;
   box-sizing: border-box;
+  color:rgb(17, 43, 33)
 }
 
 .image {
