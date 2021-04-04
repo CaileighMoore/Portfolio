@@ -6,7 +6,7 @@
   margin: auto;
   margin: top 10px;
   margin:bottom 10px;
-  width:70%;
+  width:100%;
   font-size: 140%;
   text-align: center;
   box-sizing:border-box;
@@ -16,16 +16,62 @@ h1 {
   color:rgb(17, 43, 33);
 }
 
-
-.aboutme {
-  border:2px rgb(33, 41, 39);
-  background-color: rgb(221, 173, 82);
-  padding:10px;
+.column1 {
+  padding:8px;
   display: block;
   margin:auto;
   margin: top 10px;
   margin: bottom 10px;
-  width: 70%;
+  width: 33%;
+  font-size: 110%;
+  text-align: center;
+  box-sizing: border-box;
+  color:rgb(17, 43, 33);
+  float: left;
+  background-color: rgb(97, 160, 144);
+}
+
+.column3 {
+  border:2px rgb(33, 41, 39);
+  background-color:rgb(97, 160, 144);
+  padding:8px;
+  display: block;
+  margin:auto;
+  margin: top 10px;
+  margin: bottom 10px;
+  width: 33%;
+  font-size: 110%;
+  text-align: center;
+  box-sizing: border-box;
+  float:unset;
+  color:rgb(17, 43, 33)
+}
+
+.column2 {
+  border:2px rgb(33, 41, 39);
+  background-color:rgb(97, 160, 144);
+  padding:8px;
+  display: block;
+  margin:auto;
+  margin: top 10px;
+  margin: bottom 10px;
+  width: 33%;
+  font-size: 110%;
+  text-align: center;
+  box-sizing: border-box;
+  float:right;
+  color:rgb(17, 43, 33)
+}
+
+.aboutme {
+  border:2px rgb(33, 41, 39);
+  background-color: rgb(221, 173, 82);
+  padding:5px;
+  display: block;
+  margin:auto;
+  margin: top 10px;
+  margin: bottom 10px;
+  width: 100%;
   font-size: 110%;
   text-align: center;
   box-sizing: border-box;
@@ -38,6 +84,6 @@ h1 {
   margin: auto;
   margin: top 10px;
   margin: bottom 10px;
-  width:40%;
+  width:50%;
   box-sizing:border-box;
 }
