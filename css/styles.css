@@ -8,6 +8,10 @@
   box-sizing:border-box;
 }
 
+.span {
+  color:blue;
+}
+
 .title {
   border:2px rgb(33, 41, 39);
   padding:10px;
