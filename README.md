@@ -1,7 +1,7 @@
-# **My Portfolio**
+#_My Portfolio_
 By Caileigh Moore
 
-##Description
+##_Description_
 This is our first project at Epicodus. I made a site that displays a picture of me, an About Me section, my work history, hobbies, skills and a list of all my projects so far.
 ## **Technologies Used**
 *Html
