@@ -29,6 +29,11 @@
   color:rgb(18, 28, 112);
 }
 
+.italic {
+  color:black;
+  font-style: italic;
+}
+
 h1 {
   color:rgb(17, 43, 33);
 }
@@ -89,5 +94,3 @@ h1 {
   box-sizing: border-box;
   color:rgb(17, 43, 33)
 }
-
-
